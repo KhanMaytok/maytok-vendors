@@ -1,14 +1,11 @@
 {
   "name": "maytok-vendors",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Libraries for projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Giancarlo Ventura",
-  "license": "MIT",
-  "dependencies": {
-    "bootstrap-datepicker": "^1.6.4"
-  }
+  "license": "MIT"
 }
