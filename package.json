@@ -1,6 +1,6 @@
 {
   "name": "maytok-vendors",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Libraries for projects",
   "main": "index.js",
   "scripts": {
